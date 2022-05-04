@@ -8,7 +8,7 @@ Using a PowerShell Script to monitor the integrity of files by calculating the H
 
 <h2>Languages Used</h2>
 
-- <b>PowerShell:</b> 
+- <b>PowerShell</b> 
 
 <h2>Environments Used </h2>
 
@@ -17,15 +17,15 @@ Using a PowerShell Script to monitor the integrity of files by calculating the H
 <h2>Project Highlights:</h2>
 
 <p align="center">
-Create Virtual Machine: Open Firewall to public internep traffic <br/>
+Program Overview <br/>
 <img src="https://imgur.com/DkaG4pN.png" width="80%" alt="Attack monitoring Steps"/>
 <br />
 <br />
-Create Log Analytics Workspace: Connect Log Analytics to VM  <br/>
+Powershell Script  <br/>
 <img src="https://imgur.com/KWZN4Xd.png" height="80%" width="80%" alt="Attack monitoring Steps"/>
 <br />
 <br />
-Set up Microsoft Azure Sentinel: Log into VM remotely <br/>
+Test Files <br/>
 <img src="https://imgur.com/2IDgZxq.png" height="80%" width="80%" alt="Attack monitoring Steps"/>
 <br />
 <br />
