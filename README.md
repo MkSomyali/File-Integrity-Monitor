@@ -1,8 +1,8 @@
-<h1>File Integrity Monitort: (FIM) Log</h1>
+<h1>File Integrity Monitor: (FIM) Log</h1>
 
 
 <h2>Description</h2>
-Using a PowerShell Script to monitor the integrity of files by calculating the SHA512 HASH value from target files and storing the file:hash pairs in baseline.txt. Then continuosly monitoring the files with saved baseline and notifying the user if target files have been changed or deleted.
+Using a PowerShell Script to monitor the integrity of files by calculating the SHA512 HASH value from target files and storing the file:hash pairs in baseline.txt. Then continuously monitoring the files with saved baseline and notifying the user if target files have been changed or deleted.
 <br />
 
 
